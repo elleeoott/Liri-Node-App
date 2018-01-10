@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Packages used for Liri node app UCF homework assignment",
+  "main": "keys.js",
+  "scripts": {
+    "test": "Testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edarst/Liri-Node-App.git"
+  },
+  "keywords": [
+    "UCF"
+  ],
+  "author": "Evan Darst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edarst/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/edarst/Liri-Node-App#readme"
+}
