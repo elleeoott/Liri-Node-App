@@ -78,8 +78,5 @@ var getMovie = function() {
             console.log("Language: " + JSON.parse(body).Language);
             console.log("Plot: ");
             console.log("Actors: " + JSON.parse(body).Actors);
-        }
-    }
-
-
-//Run the method
+        };
+    };
